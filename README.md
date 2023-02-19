@@ -36,7 +36,6 @@ https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
   #在一個專案裡，指定路徑填入
   /Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary
   ```
-
  
   ```console 
   #在另一個專案裡，指定路徑填入
@@ -45,7 +44,29 @@ https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
   
 * 各自登入後，就可以同時使用了 ✨ 💯
 
-  
+* (3)、(4) 
+  ```
+  是在不同 VSCODE 專案裡
+  同時使用 ChatGPT 的畫面
+  ```
+
+* (5)
+  ```
+  是 ChatGPT 的網頁畫面
+  證明有2個對話窗同時使用
+  ```
+
+* (6)
+  ```
+  是 ChatGPT 登入後
+  預設會縮小在 MacOS 底部功能列
+  圖中的2個瀏覽器 icon
+  ```
+
+  ```
+  已登入的 ChatGPT 網頁，要看最新訊息狀態，不要重新整理網頁！！會觸發機制要你重新登入，直接在網址列，使用同個網址，按下ENTER就好
+  ```
+
 * 完成！
 
 
